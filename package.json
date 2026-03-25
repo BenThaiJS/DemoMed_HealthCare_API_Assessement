@@ -1,0 +1,17 @@
+{
+  "name": "demomed-healthcare-assessment",
+  "version": "1.0.0",
+  "description": "DemoMed Healthcare API assessment solution",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "submit": "node index.js --submit"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "node-fetch": "^3.3.2"
+  }
+}
